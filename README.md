@@ -21,4 +21,4 @@ Se debe ejecutar el comando git clone al repositorio
 
    ## Licencia 📄
    Este proyecto se hizo bajo la licencia [LICENSE.MD]
-   # GRACIAS A LOS QUE ME HAN AYUDADO EN ESTE PEQUELO APRENDIZAJE 🍺 PARA TODOS
+   # GRACIAS A LOS QUE ME HAN AYUDADO EN ESTE APRENDIZAJE 🍺 PARA TODOS
